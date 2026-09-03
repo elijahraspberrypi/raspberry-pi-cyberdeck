@@ -1,0 +1,8 @@
+# Don't upload ROM files
+roms/
+
+# Don't upload Python virtual environment
+.venv/
+
+# Don't upload Python cache files
+__pycache__/
